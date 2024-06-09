@@ -18,4 +18,4 @@
 
 ```python3 ./mlops-demo/lab1/model_testing.py``` - проверяет метрики модели на тестовых данных
 
-### Практика #4 хранится [тут](https://github.com/kwazart/lab4](https://github.com/eleyterokokus/lab4/tree/main).
+### Практика #4 хранится [тут](https://github.com/eleyterokokus/lab4/tree/main).
